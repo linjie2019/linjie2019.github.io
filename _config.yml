@@ -4,4 +4,4 @@ description: I have nothing to say anymore.
 keywords: Modern, Fun
 author: Lin
 baseurl: "/linjie2019.github.io" # the subpath of your site, e.g. /blog/
-url: "https://linjie2019.github.io" # the base hostname & protocol for your site
+url: "http://linjie2019.github.io" # the base hostname & protocol for your site
