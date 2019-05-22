@@ -5,7 +5,7 @@ author: "Lin"
 avatar: "img/authors/Lin.png"
 image: "img/c.jpg"
 date:   2019-04-22 12:12:12
-published: "false"
+published: false
 ---
 
 ### Dolor sit amet?
