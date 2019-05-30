@@ -1,0 +1,11 @@
+---
+title:  "Royals - Postmodern Jukebox Lorde Cover ft. Puddles Pity Party"
+subtitle: "Sad Clown With The Golden Voice"
+author: "Lin"
+avatar: "img/authors/Lin.png"
+image: "img/Royals.jpg"
+date:   2019-05-30 12:12:12
+---
+
+
+<iframe width="375" height="210" src="video/royals.MP4" frameborder="0" gesture="media" allowfullscreen></iframe>
