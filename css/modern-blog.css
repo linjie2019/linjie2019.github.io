@@ -63,14 +63,14 @@
 }
 
 .card__caption {
-	font-size: 1.5em;
+	font-size: 1.3em;
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 35px 30px 0px;
 }
 
 .card__container--closed .card__caption {
-	font-size: 0.5em;
+	font-size: 0.8em;
 	max-width: auto;
 	padding: 10px 10px 25px;
 	-webkit-transform: translateY(-100%);
@@ -79,7 +79,7 @@
 }
 
 .card__title {
-	font-size: 1.5em;
+	font-size: 1.3em;
 	line-height: 1;
 	margin: 5px 0 0 0;
 	color: #3b393d;
@@ -101,7 +101,7 @@
 }
 
 .card__copy {
-	font-size: 0.85em;
+	font-size: 1.1em;
 	max-width: 900px;
 	margin: 0 auto;
 	padding: 25px 30px 100px;
