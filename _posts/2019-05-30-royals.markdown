@@ -2,10 +2,10 @@
 title:  "Royals - Puddles Pity Party"
 subtitle: "Sad Clown With The Golden Voice"
 author: "Lin"
-avatar: "img/authors/Lin.png"
-image: "img/Royals.jpg"
+avatar: "https://ae01.alicdn.com/kf/H8457970c416f4b8188bcd4608d31814cJ.jpg"
+image: "https://ae01.alicdn.com/kf/H9a514ecfb6f5433aae6c689ed274afe6W.jpg"
 date:   2019-05-30 12:12:12
 ---
 
 
-<iframe width="375" height="210" src="https://www.youtube.com/watch?reload=9&v=VBmCJEehYtU" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VBmCJEehYtU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
