@@ -2,9 +2,10 @@
 title:  "Planes are cool!"
 subtitle: "The Fly!"
 author: "Lin"
-avatar: "img/authors/Lin.png"
+avatar: "https://ae01.alicdn.com/kf/H8457970c416f4b8188bcd4608d31814cJ.jpg"
 image: "img/a.jpg"
 date:   2019-04-20 12:12:12
+published: false
 ---
 
 ### Dolor sit amet?

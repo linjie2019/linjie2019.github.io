@@ -2,10 +2,9 @@
 title:  "Absense of light"
 subtitle: "Only lights from space"
 author: "Lin"
-avatar: "img/authors/Lin.png"
-image: "img/d.jpg"
+avatar: "https://ae01.alicdn.com/kf/H8457970c416f4b8188bcd4608d31814cJ.jpg"
+image: "https://ae01.alicdn.com/kf/H2c6a1c3a051c4acc94ddbfcab800f040V.jpg"
 date:   2019-04-23 12:12:12
-published: false
 ---
 
 ### Dolor sit amet?
