@@ -1,5 +1,5 @@
 ---
-title:  "Royals - Postmodern Jukebox Lorde Cover ft. Puddles Pity Party"
+title:  "Royals - Puddles Pity Party"
 subtitle: "Sad Clown With The Golden Voice"
 author: "Lin"
 avatar: "img/authors/Lin.png"
